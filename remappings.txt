@@ -1,0 +1,6 @@
+@prb/test/=lib/prb-test/src/
+forge-std/=lib/forge-std/src/
+@openzeppelin/=lib/openzeppelin-contracts/
+@chainlink/contracts/=node_modules/@chainlink/contracts/src/v0.6
+@chainlink/contracts-ccip/=src/v0.8
+@openzeppelin/contracts-upgradeable=node_modules/openzeppelin-contracts-upgradeable
